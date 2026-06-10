@@ -3,7 +3,7 @@
     <title>Smits Code</title>
     <link href="https://smitsgit.github.io/blog/feed.xml" rel="self" />
     <link href="https://smitsgit.github.io/blog" />
-    <updated>2026-06-10T21:52:16+05:30</updated>
+    <updated>2026-06-10T22:09:35+05:30</updated>
     <author>
         <name>Smital Desai</name>
     </author>
@@ -16,15 +16,18 @@
         </author>
         <link href="https://smitsgit.github.io/blog/debezium-toast-missing-updates.html"/>
         <id>https://smitsgit.github.io/blog/debezium-toast-missing-updates.html</id>
+        <media:content url="https://smitsgit.github.io/blog/media/posts/7/cdc.jpg" medium="image" />
 
         <updated>2026-06-10T19:58:38+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://smitsgit.github.io/blog/media/posts/7/cdc.jpg" alt="" />
                     Problem: You have the CDC working fine and suddenly your downstream reports that it has not received updates on certain tables since last 20 days .... The table has a json column which suddenly increased in size ( huge polylines stored in this json attribute&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://smitsgit.github.io/blog/media/posts/7/cdc.jpg" class="type:primaryImage" alt="" /></p>
                 <h2><strong>Problem: </strong></h2>
 <p>You have the CDC working fine and suddenly your downstream reports that it has not received updates on certain tables since last 20 days ....</p>
 <h2>RCA:</h2>
@@ -71,15 +74,18 @@
         </author>
         <link href="https://smitsgit.github.io/blog/ai-resources.html"/>
         <id>https://smitsgit.github.io/blog/ai-resources.html</id>
+        <media:content url="https://smitsgit.github.io/blog/media/posts/6/ai.jpg" medium="image" />
 
         <updated>2026-06-10T17:16:41+05:30</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://smitsgit.github.io/blog/media/posts/6/ai.jpg" alt="" />
                     Coding Resources Agentic Patterns 5x critic plan - Shivam's Repo Arvind's Agents.md How i use cursor Book Resources AI Engineering Designing ML systems Building your own coding agent Common sense guide to AI engineering LLM's from scratch - Sebastin Raschka Skills / Plugins Cursor plugin&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://smitsgit.github.io/blog/media/posts/6/ai.jpg" class="type:primaryImage" alt="" /></p>
                 <h2>Coding Resources</h2>
 <ul>
 <li><a href="https://simonwillison.net/guides/agentic-engineering-patterns/">Agentic Patterns </a></li>
